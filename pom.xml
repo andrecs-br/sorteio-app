@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>sorteio-app</name>
-	<description>This project represents a Microservice for Sorteio</description>
+	<description>This project represents a Microservice for draw</description>
 
 	<distributionManagement>
 		<repository>
